@@ -1,1 +1,1 @@
-http://domains.com
+https://uploadweb.net/api/plugin/get-mirrors
